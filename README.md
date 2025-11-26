@@ -1,2 +1,1 @@
-# si
-Apuntes de SI - DAM.
+# sox
